@@ -4,24 +4,7 @@ A Python tool that downloads real Bitcoin price data and calculates key financia
 
 ---
 
-## 📁 Project Structure
 
-```
-stock-data-analyzer/
-│
-├── main.py                 ← main script
-├── requirements.txt
-├── README.md
-│
-├── outputs/
-│   ├── btc_analysis.csv    ← processed data
-│   ├── moving_avg.png      ← price + moving averages chart
-│   ├── returns.png         ← returns distribution chart
-│   ├── rolling_volatility.png
-│   └── report.txt          ← summary statistics
-```
-
----
 
 ## ⚙️ How to Run
 
