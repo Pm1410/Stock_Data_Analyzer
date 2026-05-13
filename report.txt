@@ -1,0 +1,9 @@
+BTC Analysis Report
+===================
+
+Mean Close Price: 98614.20571875
+Median Close Price: 101301.2890625
+Standard Deviation: 14689.72210408431
+Maximum Close Price: 124752.53125
+Minimum Close Price: 62702.09765625
+Sharpe Ratio: -0.34858595544322496
